@@ -1,0 +1,10 @@
+{
+  "stop_state": "20a5a528b94a778f9e3ae9d094d2b3f9", 
+  "event_str": "IntentEvent(intent='am start andrei.brusentcov.eyecheck.free/andrei.brusentcov.eyecheck.BootActivity')", 
+  "tag": "2017-09-24_101145", 
+  "event": {
+    "intent": "am start andrei.brusentcov.eyecheck.free/andrei.brusentcov.eyecheck.BootActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "aa1259f4f33fb5969fdda25c9505c3fa"
+}

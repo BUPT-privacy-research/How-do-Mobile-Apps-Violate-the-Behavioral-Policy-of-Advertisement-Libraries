@@ -1,0 +1,48 @@
+{
+  "stop_state": "aa1259f4f33fb5969fdda25c9505c3fa", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=7e7474119d665b8ed1780f93753591e1)", 
+  "tag": "2017-09-24_101139", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnCloseMain", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "64*64", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]andrei.brusentcov.eyecheck.free:id/btnCloseMain", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "7e7474119d665b8ed1780f93753591e1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          38
+        ], 
+        [
+          78, 
+          102
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]andrei.brusentcov.eyecheck.free:id/btnCloseMain[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

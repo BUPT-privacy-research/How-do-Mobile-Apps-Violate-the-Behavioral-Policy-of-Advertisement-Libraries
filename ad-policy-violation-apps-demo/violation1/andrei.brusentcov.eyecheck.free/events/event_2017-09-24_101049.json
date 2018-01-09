@@ -1,0 +1,48 @@
+{
+  "stop_state": "44ccf85c08b8aa17b8204a8a8eb3196c", 
+  "event_str": "TouchEvent(state=8643b5539fe2d249277c61bbcfb3cf3e, view=f692487be8e94e3020f6358f71c93054)", 
+  "tag": "2017-09-24_101049", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnShShapeTest", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "280*280", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]andrei.brusentcov.eyecheck.free:id/btnShShapeTest", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "f692487be8e94e3020f6358f71c93054", 
+      "enabled": true, 
+      "bounds": [
+        [
+          436, 
+          635
+        ], 
+        [
+          716, 
+          915
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]andrei.brusentcov.eyecheck.free:id/btnShShapeTest[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "8643b5539fe2d249277c61bbcfb3cf3e"
+}

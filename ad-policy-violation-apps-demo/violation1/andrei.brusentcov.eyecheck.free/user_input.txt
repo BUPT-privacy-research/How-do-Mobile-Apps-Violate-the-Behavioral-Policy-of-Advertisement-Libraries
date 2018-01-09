@@ -1,0 +1,12 @@
+add device 1: /dev/input/event0
+  name:     "pmic8xxx_pwrkey"
+add device 2: /dev/input/event1
+  name:     "keypad_8064"
+add device 3: /dev/input/event4
+  name:     "apq8064-tabla-snd-card Headset Jack"
+add device 4: /dev/input/event3
+  name:     "apq8064-tabla-snd-card Button Jack"
+add device 5: /dev/input/event5
+  name:     "hs_detect"
+add device 6: /dev/input/event2
+  name:     "touch_dev"

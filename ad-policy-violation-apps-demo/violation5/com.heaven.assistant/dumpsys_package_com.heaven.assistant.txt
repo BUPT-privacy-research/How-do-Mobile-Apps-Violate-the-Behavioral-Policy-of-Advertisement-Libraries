@@ -1,0 +1,54 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        9cd1970 com.heaven.assistant/.AcMain
+
+Key Set Manager:
+  [com.heaven.assistant]
+      Signing KeySets: 494
+
+Packages:
+  Package [com.heaven.assistant] (6b424e9):
+    userId=10494
+    pkg=Package{328e56e com.heaven.assistant}
+    codePath=/data/app/com.heaven.assistant-1
+    resourcePath=/data/app/com.heaven.assistant-1
+    legacyNativeLibraryDir=/data/app/com.heaven.assistant-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=14
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{f65640f com.heaven.assistant}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.heaven.assistant
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-24 18:25:41
+    firstInstallTime=2017-09-24 18:25:44
+    lastUpdateTime=2017-09-24 18:25:44
+    signatures=PackageSignatures{5425c9c [22126a5]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.CALL_PHONE
+      android.permission.READ_CONTACTS
+      android.permission.INTERNET
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.VIBRATE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.READ_CALL_LOG
+    install permissions:
+      android.permission.READ_CALL_LOG: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.READ_EXTERNAL_STORAGE: granted=true
+      android.permission.CALL_PHONE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.READ_CONTACTS: granted=true
+    User 0:  installed=true hidden=false stopped=true notLaunched=true enabled=0
+      gids=[3003]
+      runtime permissions:

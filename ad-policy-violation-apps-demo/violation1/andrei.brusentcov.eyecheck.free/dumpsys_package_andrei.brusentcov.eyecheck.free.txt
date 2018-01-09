@@ -1,0 +1,36 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        41c1c8f0 andrei.brusentcov.eyecheck.free/andrei.brusentcov.eyecheck.BootActivity filter 41c1ca78
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [andrei.brusentcov.eyecheck.free]
+      Signing KeySets: 3
+
+Packages:
+  Package [andrei.brusentcov.eyecheck.free] (4208aa20):
+    userId=10390 gids=[3003]
+    pkg=Package{41a15a28 andrei.brusentcov.eyecheck.free}
+    codePath=/data/app/andrei.brusentcov.eyecheck.free-1.apk
+    resourcePath=/data/app/andrei.brusentcov.eyecheck.free-1.apk
+    nativeLibraryPath=/data/app-lib/andrei.brusentcov.eyecheck.free-1
+    versionCode=3 targetSdk=21
+    versionName=1.2
+    applicationInfo=ApplicationInfo{41a15b08 andrei.brusentcov.eyecheck.free}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/andrei.brusentcov.eyecheck.free
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-24 10:09:10
+    firstInstallTime=2017-09-24 10:09:12
+    lastUpdateTime=2017-09-24 10:09:12
+    signatures=PackageSignatures{41fb3680 [41fc3830]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=true notLaunched=true enabled=0
+    grantedPermissions:
+      android.permission.WAKE_LOCK
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.INTERNET

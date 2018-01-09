@@ -1,0 +1,48 @@
+{
+  "stop_state": "ee8aea8cc9500184679087f1b6afb8a9", 
+  "event_str": "TouchEvent(state=20a5a528b94a778f9e3ae9d094d2b3f9, view=dd1f83a3cb37b305167684a42d677ee1)", 
+  "tag": "2017-09-24_101117", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/txtj34", 
+      "text": "* Does not replace the advice of a doctor", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "748*38", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtj34", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "dd1f83a3cb37b305167684a42d677ee1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          10, 
+          1011
+        ], 
+        [
+          758, 
+          1049
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtj34[text]* Does not replace the advice of a doctor[enabled,,]"
+    }
+  }, 
+  "start_state": "20a5a528b94a778f9e3ae9d094d2b3f9"
+}

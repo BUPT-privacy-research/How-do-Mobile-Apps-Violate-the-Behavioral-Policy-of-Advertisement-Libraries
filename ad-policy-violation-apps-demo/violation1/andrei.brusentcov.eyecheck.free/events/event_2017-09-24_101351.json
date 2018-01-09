@@ -1,0 +1,48 @@
+{
+  "stop_state": "f29947d43cde0e101bf2ac41e9f9ae26", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=8d261e9648273ccf579f40e91f2b80b9)", 
+  "tag": "2017-09-24_101351", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/fl3453", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "4*140", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]andrei.brusentcov.eyecheck.free:id/fl3453", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "8d261e9648273ccf579f40e91f2b80b9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          4, 
+          140
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]andrei.brusentcov.eyecheck.free:id/fl3453[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

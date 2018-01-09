@@ -1,0 +1,10 @@
+{
+  "stop_state": "b1094b2495f78ed1bf08a45cd3aca0e8", 
+  "event_str": "KeyEvent(state=9e1c4ec37808c54186ee02c551ee7c3a, name=HOME)", 
+  "tag": "2017-09-24_100918", 
+  "event": {
+    "event_type": "key", 
+    "name": "HOME"
+  }, 
+  "start_state": "9e1c4ec37808c54186ee02c551ee7c3a"
+}

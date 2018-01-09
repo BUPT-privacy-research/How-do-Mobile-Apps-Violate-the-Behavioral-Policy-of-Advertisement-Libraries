@@ -1,0 +1,48 @@
+{
+  "stop_state": "6af015505fd09e9e5fef8d5cc8fe4855", 
+  "event_str": "TouchEvent(view=c57e63c5f92d721d5afa4869a417b80a)", 
+  "tag": "2017-09-24_182716", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.assistant:id/b_speak", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "510*232", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.heaven.assistant:id/b_speak", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "c57e63c5f92d721d5afa4869a417b80a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          285, 
+          1688
+        ], 
+        [
+          795, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.heaven.assistant:id/b_speak[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "6af015505fd09e9e5fef8d5cc8fe4855"
+}

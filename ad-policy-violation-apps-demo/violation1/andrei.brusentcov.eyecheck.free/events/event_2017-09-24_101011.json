@@ -1,0 +1,48 @@
+{
+  "stop_state": "501b893f5e5034982c27ff52b6b5dd5d", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=f77ee6bfd40f55134ee1992b7b3831d5)", 
+  "tag": "2017-09-24_101011", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnSettings", 
+      "text": "Settings", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "760*111", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnSettings", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "f77ee6bfd40f55134ee1992b7b3831d5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          4, 
+          771
+        ], 
+        [
+          764, 
+          882
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnSettings[text]Settings[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

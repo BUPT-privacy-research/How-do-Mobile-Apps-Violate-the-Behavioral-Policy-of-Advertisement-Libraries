@@ -1,0 +1,48 @@
+{
+  "stop_state": "f29947d43cde0e101bf2ac41e9f9ae26", 
+  "event_str": "TouchEvent(state=501b893f5e5034982c27ff52b6b5dd5d, view=b216772779042793d4991911f5f532d1)", 
+  "tag": "2017-09-24_101156", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnCloseSettings", 
+      "text": "Close", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "578*96", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]andrei.brusentcov.eyecheck.free:id/btnCloseSettings", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "b216772779042793d4991911f5f532d1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          95, 
+          791
+        ], 
+        [
+          673, 
+          887
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]andrei.brusentcov.eyecheck.free:id/btnCloseSettings[text]Close[enabled,,]"
+    }
+  }, 
+  "start_state": "501b893f5e5034982c27ff52b6b5dd5d"
+}

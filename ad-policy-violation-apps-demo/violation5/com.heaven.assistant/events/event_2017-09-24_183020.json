@@ -1,0 +1,48 @@
+{
+  "stop_state": "3d96bb7e2341b2d9f0307b5132a94c4b", 
+  "event_str": "TouchEvent(view=fc65289dd538625c1fce763844c29e4d)", 
+  "tag": "2017-09-24_183020", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "You are funny", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "504*-19177", 
+      "checked": false, 
+      "temp_id": 602, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 601, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "fc65289dd538625c1fce763844c29e4d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          546, 
+          21097
+        ], 
+        [
+          1050, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "961c87b1720fdca6502d6302b0408756"
+}

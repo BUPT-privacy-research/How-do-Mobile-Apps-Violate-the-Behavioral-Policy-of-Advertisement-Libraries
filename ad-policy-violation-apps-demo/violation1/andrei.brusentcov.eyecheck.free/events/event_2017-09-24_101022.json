@@ -1,0 +1,48 @@
+{
+  "stop_state": "8643b5539fe2d249277c61bbcfb3cf3e", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=6de1f50a3566577d988ede0f9d9681f6)", 
+  "tag": "2017-09-24_101022", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnStartEyeCheck", 
+      "text": "Start test", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "648*199", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnStartEyeCheck", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "6de1f50a3566577d988ede0f9d9681f6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          60, 
+          424
+        ], 
+        [
+          708, 
+          623
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnStartEyeCheck[text]Start test[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

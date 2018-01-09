@@ -1,0 +1,10 @@
+{
+  "stop_state": "2f9a666726dba8ca5ab9576fc98a5d4e", 
+  "event_str": "IntentEvent(intent='am start com.heaven.assistant/com.heaven.assistant.AcMain')", 
+  "tag": "2017-09-24_182916", 
+  "event": {
+    "intent": "am start com.heaven.assistant/com.heaven.assistant.AcMain", 
+    "event_type": "intent"
+  }, 
+  "start_state": "e5be843bb8926b1fb5e41bb25aaf600b"
+}

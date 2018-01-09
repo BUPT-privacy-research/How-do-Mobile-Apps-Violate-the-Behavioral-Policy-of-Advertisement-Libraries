@@ -1,0 +1,52 @@
+{
+  "stop_state": "3d96bb7e2341b2d9f0307b5132a94c4b", 
+  "event_str": "ScrollEvent(view=0eca8fe47c2680afa46fa80fb084e026, direction=LEFT)", 
+  "tag": "2017-09-24_183102", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "LEFT", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": "Help", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        606
+      ], 
+      "size": "1080*1844", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "0eca8fe47c2680afa46fa80fb084e026", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          76
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3d96bb7e2341b2d9f0307b5132a94c4b"
+}

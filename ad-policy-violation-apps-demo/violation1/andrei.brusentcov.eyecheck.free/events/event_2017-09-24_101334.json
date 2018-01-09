@@ -1,0 +1,48 @@
+{
+  "stop_state": "f29947d43cde0e101bf2ac41e9f9ae26", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=fd1e17ec045a86ce5e57de853748c66f)", 
+  "tag": "2017-09-24_101334", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/txtLastTestResult", 
+      "text": "Last measurement: L:n/a R:n/a", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "768*49", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtLastTestResult", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "fd1e17ec045a86ce5e57de853748c66f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          718
+        ], 
+        [
+          768, 
+          767
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtLastTestResult[text]Last measurement: L:n/a R:n/a[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

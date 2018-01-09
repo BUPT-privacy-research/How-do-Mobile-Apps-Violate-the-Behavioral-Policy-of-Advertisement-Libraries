@@ -1,0 +1,48 @@
+{
+  "stop_state": "ee8aea8cc9500184679087f1b6afb8a9", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=ac47ba43286cec208ea82f6c1740c241)", 
+  "tag": "2017-09-24_101208", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Remove ADS", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "768*94", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "ac47ba43286cec208ea82f6c1740c241", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          984
+        ], 
+        [
+          768, 
+          1078
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Remove ADS[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

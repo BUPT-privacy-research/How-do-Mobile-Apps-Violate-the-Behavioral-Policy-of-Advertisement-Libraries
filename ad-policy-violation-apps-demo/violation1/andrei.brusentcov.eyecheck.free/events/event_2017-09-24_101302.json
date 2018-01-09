@@ -1,0 +1,48 @@
+{
+  "stop_state": "815ef071d1a11ce75e614452145fee0d", 
+  "event_str": "TouchEvent(state=486f2f075c06841c11a8bfb3181a3a54, view=522865f90342fce636d32161991d4df3)", 
+  "tag": "2017-09-24_101302", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\u6d4f\u89c8\u5668", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "108*49", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "522865f90342fce636d32161991d4df3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          195, 
+          633
+        ], 
+        [
+          303, 
+          682
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]\u6d4f\u89c8\u5668[enabled,,]"
+    }
+  }, 
+  "start_state": "486f2f075c06841c11a8bfb3181a3a54"
+}

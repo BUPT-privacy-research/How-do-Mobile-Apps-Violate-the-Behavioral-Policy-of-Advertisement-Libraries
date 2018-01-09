@@ -1,0 +1,50 @@
+{
+  "stop_state": "b15ec3f25f0759daaf8508c0ff974417", 
+  "event_str": "TouchEvent(state=8643b5539fe2d249277c61bbcfb3cf3e, view=997d4ddba1ab5a6b5ad67e5b9e276dd9)", 
+  "tag": "2017-09-24_101038", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnHandle", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28
+      ], 
+      "size": "768*94", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]andrei.brusentcov.eyecheck.free:id/btnHandle", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "997d4ddba1ab5a6b5ad67e5b9e276dd9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          984
+        ], 
+        [
+          768, 
+          1078
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]andrei.brusentcov.eyecheck.free:id/btnHandle[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "8643b5539fe2d249277c61bbcfb3cf3e"
+}

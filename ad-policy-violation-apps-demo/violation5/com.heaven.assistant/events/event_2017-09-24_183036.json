@@ -1,0 +1,48 @@
+{
+  "stop_state": "3d96bb7e2341b2d9f0307b5132a94c4b", 
+  "event_str": "TouchEvent(view=601129c14926ac7343924e62d662cd47)", 
+  "tag": "2017-09-24_183036", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "You\u2019re missing the first 7 years.", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "432*-16807", 
+      "checked": false, 
+      "temp_id": 550, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 547, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "601129c14926ac7343924e62d662cd47", 
+      "enabled": true, 
+      "bounds": [
+        [
+          582, 
+          18727
+        ], 
+        [
+          1014, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3d96bb7e2341b2d9f0307b5132a94c4b"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "3d96bb7e2341b2d9f0307b5132a94c4b", 
+  "event_str": "TouchEvent(view=24fe4e281146c035a3671eb99f86ae2b)", 
+  "tag": "2017-09-24_183120", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*0", 
+      "checked": false, 
+      "temp_id": 605, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "24fe4e281146c035a3671eb99f86ae2b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          76
+        ], 
+        [
+          0, 
+          76
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3d96bb7e2341b2d9f0307b5132a94c4b"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "2eaebe3d190b6101d400b19f9857ae0d", 
+  "event_str": "TouchEvent(state=f29947d43cde0e101bf2ac41e9f9ae26, view=e0e86fc225929d84313289cb8c437804)", 
+  "tag": "2017-09-24_101001", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/btnLikeFromMain", 
+      "text": "Like", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "400*88", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnLikeFromMain", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "e0e86fc225929d84313289cb8c437804", 
+      "enabled": true, 
+      "bounds": [
+        [
+          184, 
+          890
+        ], 
+        [
+          584, 
+          978
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/btnLikeFromMain[text]Like[enabled,,]"
+    }
+  }, 
+  "start_state": "f29947d43cde0e101bf2ac41e9f9ae26"
+}

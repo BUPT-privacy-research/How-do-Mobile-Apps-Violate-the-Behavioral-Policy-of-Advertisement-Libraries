@@ -1,0 +1,2156 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "768*1280", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "22181e0448668637b056b65729d43924", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          768, 
+          1280
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "768*1280", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "537350ec198bc3521c79245782a6dae1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          768, 
+          1280
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "768*1280", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "1022060c5d6858dd03988011e5e06d37", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          768, 
+          1280
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/launcher", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "768*1280", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/launcher", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "2c94d588658a2aaf174c6ad86f76863c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          768, 
+          1280
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/launcher[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/drag_layer", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5, 
+        32, 
+        39, 
+        40, 
+        47
+      ], 
+      "size": "768*1280", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/drag_layer", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "3cb21cfe2d38aec5465dc7197afaae83", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          768, 
+          1280
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/drag_layer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/workspace", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6, 
+        20
+      ], 
+      "size": "4637*4637", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.launcher3:id/workspace", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": true, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "219d7193ed6e6abc6e5515d293e3f26b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -1934, 
+          -1678
+        ], 
+        [
+          2703, 
+          2959
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.android.launcher3:id/workspace[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "752*798", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "bd27cf898b9b2829a2a2d889dc39b153", 
+      "enabled": true, 
+      "bounds": [
+        [
+          8, 
+          170
+        ], 
+        [
+          760, 
+          968
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8, 
+        18, 
+        19
+      ], 
+      "size": "752*798", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "e4d664d53833a7d706ef4027d64ebdcd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          8, 
+          170
+        ], 
+        [
+          760, 
+          968
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "cLock", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9
+      ], 
+      "size": "752*398", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.appwidget.AppWidgetHostView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "959fa14c7987e2194a5ed050b327fd34", 
+      "enabled": true, 
+      "bounds": [
+        [
+          8, 
+          369
+        ], 
+        [
+          760, 
+          767
+        ]
+      ], 
+      "signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/digital_appwidget", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10, 
+        16
+      ], 
+      "size": "720*366", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cyanogenmod.lockclock:id/digital_appwidget", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "51b34c45883deca34a55592908cac9e1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          385
+        ], 
+        [
+          744, 
+          751
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cyanogenmod.lockclock:id/digital_appwidget[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/clock_panel", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        14
+      ], 
+      "size": "720*241", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/clock_panel", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "6357bacf337162d25e168917601d11b3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          385
+        ], 
+        [
+          744, 
+          626
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/clock_panel[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/digital_clock", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12, 
+        13
+      ], 
+      "size": "359*203", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/digital_clock", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "c4b3e20458a65781e2060f27a4be692a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          204, 
+          385
+        ], 
+        [
+          563, 
+          588
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/digital_clock[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/clock1_regular", 
+      "text": "10", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "166*203", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/clock1_regular", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "687648e790ffeafd77e5fb1decce253b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          204, 
+          385
+        ], 
+        [
+          370, 
+          588
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/clock1_regular[text]10[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/clock2_regular", 
+      "text": ":11", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "193*203", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/clock2_regular", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "5480c9b673f5a5010419dc27edfd93b4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          385
+        ], 
+        [
+          563, 
+          588
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/clock2_regular[text]:11[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/date_alarm", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15
+      ], 
+      "size": "720*38", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/date_alarm", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "e90662cf80737ec03f29b37d044f5694", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          588
+        ], 
+        [
+          744, 
+          626
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.cyanogenmod.lockclock:id/date_alarm[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/date_bold", 
+      "text": "9 \u6708 24 \u65e5 \u5468\u65e5", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "175*38", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/date_bold", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "01f6dd10f434f2fc2d1fda51d76edb7e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          296, 
+          588
+        ], 
+        [
+          471, 
+          626
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.cyanogenmod.lockclock:id/date_bold[text]9 \u6708 24 \u65e5 \u5468\u65e5[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.cyanogenmod.lockclock:id/weather_panel", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17
+      ], 
+      "size": "720*80", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cyanogenmod.lockclock:id/weather_panel", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "01039128c569b35125d9cbd555f0e313", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          619
+        ], 
+        [
+          744, 
+          699
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cyanogenmod.lockclock:id/weather_panel[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "8*8", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.lockclock", 
+      "long_clickable": false, 
+      "view_str": "5707684168c6e5f03062fd353d7262e3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          336, 
+          655
+        ], 
+        [
+          344, 
+          663
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Apollo", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "188*199", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "b1766b1a6f5cd8b23ad776dc15c95692", 
+      "enabled": true, 
+      "bounds": [
+        [
+          8, 
+          767
+        ], 
+        [
+          196, 
+          966
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Apollo[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "DSP \u7ba1\u7406\u5668", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "188*199", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "d65c0ea928b195e28dbd825edcb56967", 
+      "enabled": true, 
+      "bounds": [
+        [
+          572, 
+          767
+        ], 
+        [
+          760, 
+          966
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]DSP \u7ba1\u7406\u5668[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        21
+      ], 
+      "size": "752*798", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "bd27cf898b9b2829a2a2d889dc39b153", 
+      "enabled": true, 
+      "bounds": [
+        [
+          776, 
+          170
+        ], 
+        [
+          1528, 
+          968
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        22, 
+        30, 
+        31
+      ], 
+      "size": "752*798", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 20, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "82996b3468bf852aa72f882edd6e169c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          776, 
+          170
+        ], 
+        [
+          1528, 
+          968
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u77ed\u4fe1", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        23
+      ], 
+      "size": "752*398", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.appwidget.AppWidgetHostView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "b15258f14b9477aaf00fb892473f4cd4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          776, 
+          170
+        ], 
+        [
+          1528, 
+          568
+        ]
+      ], 
+      "signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        24, 
+        29
+      ], 
+      "size": "720*366", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "6fa00a1cd386820e6c9d1a262b28bca0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          792, 
+          186
+        ], 
+        [
+          1512, 
+          552
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.mms:id/widget_header", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        25, 
+        26, 
+        27, 
+        28
+      ], 
+      "size": "720*96", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.mms:id/widget_header", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "2d0f2dc90c264e4d599e0ce6edfda061", 
+      "enabled": true, 
+      "bounds": [
+        [
+          792, 
+          186
+        ], 
+        [
+          1512, 
+          282
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.mms:id/widget_header[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.mms:id/widget_icon", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "64*64", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.mms:id/widget_icon", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "d0e59def3bbbeaed690d98a41c714f61", 
+      "enabled": true, 
+      "bounds": [
+        [
+          808, 
+          202
+        ], 
+        [
+          872, 
+          266
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.mms:id/widget_icon[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.mms:id/widget_label", 
+      "text": "\u77ed\u4fe1", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "496*49", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.mms:id/widget_label", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "611fed51ddaa19e5f7e7ea3f998f0aec", 
+      "enabled": true, 
+      "bounds": [
+        [
+          888, 
+          209
+        ], 
+        [
+          1384, 
+          258
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.android.mms:id/widget_label[text]\u77ed\u4fe1[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.mms:id/widget_unread_count", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*49", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.mms:id/widget_unread_count", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "b17cf344aab1e737c6e9428d4988a216", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1400, 
+          209
+        ], 
+        [
+          1400, 
+          258
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.android.mms:id/widget_unread_count[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u65b0\u4fe1\u606f", 
+      "resource_id": "com.android.mms:id/widget_compose", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "72*72", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.android.mms:id/widget_compose", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "825a6cce91ca69ae722dec1a9561b87b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1424, 
+          198
+        ], 
+        [
+          1496, 
+          270
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]com.android.mms:id/widget_compose[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.mms:id/conversation_list", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "720*270", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]com.android.mms:id/conversation_list", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "com.android.mms", 
+      "long_clickable": false, 
+      "view_str": "4ca31129710773965ca8e8a66695ef60", 
+      "enabled": true, 
+      "bounds": [
+        [
+          792, 
+          282
+        ], 
+        [
+          1512, 
+          552
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]com.android.mms:id/conversation_list[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u56fe\u5e93", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "188*199", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "7ad2b8f595eafee002df4f9fab3ea187", 
+      "enabled": true, 
+      "bounds": [
+        [
+          776, 
+          767
+        ], 
+        [
+          964, 
+          966
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u56fe\u5e93[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u8bbe\u7f6e", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "188*199", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "ec2f1e9e56bac3370d1a5e44ad14e564", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1340, 
+          767
+        ], 
+        [
+          1528, 
+          966
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u8bbe\u7f6e[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/search_drop_target_bar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34
+      ], 
+      "size": "768*120", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/search_drop_target_bar", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "0c9b6b2685672a3891548a96103037d4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          50
+        ], 
+        [
+          768, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/search_drop_target_bar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "720*96", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "3f2c976b88b08327da7fa49fa94d2d23", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          74
+        ], 
+        [
+          744, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/drag_target_bar", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        35, 
+        37
+      ], 
+      "size": "720*96", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/drag_target_bar", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "20dbeb6c883f81ce564b587a87f21959", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          74
+        ], 
+        [
+          744, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/drag_target_bar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        36
+      ], 
+      "size": "360*96", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "4add0da10ad6411acbdaad5678ea7f73", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          74
+        ], 
+        [
+          384, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/delete_target_text", 
+      "text": "\u5220\u9664", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "243*96", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.launcher3:id/delete_target_text", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "d5a61831e4da25497c742c64ae96fcb4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          82, 
+          74
+        ], 
+        [
+          325, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.android.launcher3:id/delete_target_text[text]\u5220\u9664[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        38
+      ], 
+      "size": "360*96", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "4191e46e7d573d244ad60d2b57541f9f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          384, 
+          74
+        ], 
+        [
+          744, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/info_target_text", 
+      "text": "\u5e94\u7528\u4fe1\u606f", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "307*96", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.launcher3:id/info_target_text", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "d1fd04a0038d597dd6f21f1ec195efde", 
+      "enabled": true, 
+      "bounds": [
+        [
+          410, 
+          74
+        ], 
+        [
+          717, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.android.launcher3:id/info_target_text[text]\u5e94\u7528\u4fe1\u606f[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/voice_button_proxy", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "240*120", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/voice_button_proxy", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "d7609c5358b3fd77c3cc36a1bfe2c13c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          528, 
+          50
+        ], 
+        [
+          768, 
+          170
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/voice_button_proxy[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u4e3b\u5c4f\u5e55\uff1a\u7b2c1\u5c4f\uff0c\u51712\u5c4f, \u8bbe\u7f6e", 
+      "resource_id": "com.android.launcher3:id/page_indicator", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        41, 
+        44
+      ], 
+      "size": "64*32", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/page_indicator", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "db4082bc9dcc19e4b627faf0c5af6fe7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          352, 
+          984
+        ], 
+        [
+          416, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.launcher3:id/page_indicator[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        42, 
+        43
+      ], 
+      "size": "32*32", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "1173a4aab2389985980898103243e692", 
+      "enabled": true, 
+      "bounds": [
+        [
+          352, 
+          984
+        ], 
+        [
+          384, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/active", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "32*32", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/active", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "1952b21a20d3a5f7b05dbf9e17602ff3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          352, 
+          984
+        ], 
+        [
+          384, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/active[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/inactive", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "32*32", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/inactive", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "b614463b37e9f3b178ed4e8c66a98e15", 
+      "enabled": true, 
+      "bounds": [
+        [
+          352, 
+          984
+        ], 
+        [
+          384, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/inactive[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        45, 
+        46
+      ], 
+      "size": "32*32", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "1173a4aab2389985980898103243e692", 
+      "enabled": true, 
+      "bounds": [
+        [
+          384, 
+          984
+        ], 
+        [
+          416, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/active", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "16*16", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/active", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "1952b21a20d3a5f7b05dbf9e17602ff3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          392, 
+          992
+        ], 
+        [
+          408, 
+          1008
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/active[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/inactive", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "32*32", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/inactive", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "b614463b37e9f3b178ed4e8c66a98e15", 
+      "enabled": true, 
+      "bounds": [
+        [
+          384, 
+          984
+        ], 
+        [
+          416, 
+          1016
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.launcher3:id/inactive[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/hotseat", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        48
+      ], 
+      "size": "768*168", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/hotseat", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "8c1a61b814eafaa15d8f005d5651b432", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1016
+        ], 
+        [
+          768, 
+          1184
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.launcher3:id/hotseat[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.android.launcher3:id/layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        49
+      ], 
+      "size": "768*168", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.launcher3:id/layout", 
+      "is_password": false, 
+      "parent": 47, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "8f325bcf16c0bd1e0ea1c050eb324cd6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1016
+        ], 
+        [
+          768, 
+          1184
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.android.launcher3:id/layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        50, 
+        51, 
+        52, 
+        53, 
+        54
+      ], 
+      "size": "768*168", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": false, 
+      "view_str": "00c04eec1b96e39ed32a2eb216f0b595", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1016
+        ], 
+        [
+          792, 
+          1184
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u62e8\u53f7", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*156", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "18ebe84cf67a76affa65270f24308458", 
+      "enabled": true, 
+      "bounds": [
+        [
+          29, 
+          1022
+        ], 
+        [
+          163, 
+          1178
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u62e8\u53f7[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u77ed\u4fe1", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*156", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "bfee4dae4be2b80ea4c6084811211fc0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          173, 
+          1022
+        ], 
+        [
+          307, 
+          1178
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u77ed\u4fe1[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u5e94\u7528", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*156", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "2489101713a1f22718ca375c0258cacf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          317, 
+          1022
+        ], 
+        [
+          451, 
+          1178
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u5e94\u7528[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u6d4f\u89c8\u5668", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*156", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "e3b4885a1b8edd8479f8eec46aefad60", 
+      "enabled": true, 
+      "bounds": [
+        [
+          461, 
+          1022
+        ], 
+        [
+          595, 
+          1178
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u6d4f\u89c8\u5668[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u76f8\u673a", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "134*156", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.cyanogenmod.trebuchet", 
+      "long_clickable": true, 
+      "view_str": "3a6619916f23fcded366a22b1d4bed68", 
+      "enabled": true, 
+      "bounds": [
+        [
+          605, 
+          1022
+        ], 
+        [
+          739, 
+          1178
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u76f8\u673a[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "09dff06d5e1fe8bc1337e921cdab2393", 
+  "activity_stack": [
+    "com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.io.frequency.spc/com.io.spc.context.SpcService", 
+    "com.android.phone/.BluetoothPhoneService", 
+    "com.android.mms/.transaction.TransactionService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.bel.android.dspmanager/.service.HeadsetService", 
+    "com.android.keyguard/.KeyguardService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.android.smspush/.WapPushManager", 
+    "android/com.android.internal.backup.LocalTransportService", 
+    "com.android.location.fused/.FusedLocationService", 
+    "com.google.system.sensor/.CoreService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "jackpal.androidterm/.TermService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "aa1259f4f33fb5969fdda25c9505c3fa", 
+  "tag": "2017-09-24_101112", 
+  "foreground_activity": "com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher"
+}

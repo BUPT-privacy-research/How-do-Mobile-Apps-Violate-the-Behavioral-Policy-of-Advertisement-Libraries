@@ -1,0 +1,48 @@
+{
+  "stop_state": "3d96bb7e2341b2d9f0307b5132a94c4b", 
+  "event_str": "TouchEvent(view=4eb3440a69a95f34570dc6fd80f0d50f)", 
+  "tag": "2017-09-24_183028", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "How is your sex live?", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "516*-19114", 
+      "checked": false, 
+      "temp_id": 600, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 599, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.heaven.assistant", 
+      "long_clickable": false, 
+      "view_str": "4eb3440a69a95f34570dc6fd80f0d50f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          21034
+        ], 
+        [
+          540, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "3d96bb7e2341b2d9f0307b5132a94c4b"
+}

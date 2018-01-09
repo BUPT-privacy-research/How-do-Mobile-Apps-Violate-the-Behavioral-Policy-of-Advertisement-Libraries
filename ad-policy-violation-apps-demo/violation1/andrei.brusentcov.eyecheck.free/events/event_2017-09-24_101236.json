@@ -1,0 +1,51 @@
+{
+  "stop_state": "486f2f075c06841c11a8bfb3181a3a54", 
+  "event_str": "TouchEvent(state=486f2f075c06841c11a8bfb3181a3a54, view=ddf9c3ac205c8eb660be5807da4cb4d5)", 
+  "tag": "2017-09-24_101236", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/resolver_list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13, 
+        17
+      ], 
+      "size": "665*194", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/resolver_list", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": true, 
+      "view_str": "ddf9c3ac205c8eb660be5807da4cb4d5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          51, 
+          512
+        ], 
+        [
+          716, 
+          706
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/resolver_list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "486f2f075c06841c11a8bfb3181a3a54"
+}

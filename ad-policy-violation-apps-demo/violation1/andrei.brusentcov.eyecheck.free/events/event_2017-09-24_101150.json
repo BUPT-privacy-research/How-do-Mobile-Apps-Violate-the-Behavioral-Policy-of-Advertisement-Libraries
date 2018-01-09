@@ -1,0 +1,48 @@
+{
+  "stop_state": "501b893f5e5034982c27ff52b6b5dd5d", 
+  "event_str": "TouchEvent(state=20a5a528b94a778f9e3ae9d094d2b3f9, view=adaa8948c2643177b317e29aef490a25)", 
+  "tag": "2017-09-24_101150", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "andrei.brusentcov.eyecheck.free:id/txtBootAdvice", 
+      "text": "Keep your eyes healthy", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "748*319", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtBootAdvice", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "andrei.brusentcov.eyecheck.free", 
+      "long_clickable": false, 
+      "view_str": "adaa8948c2643177b317e29aef490a25", 
+      "enabled": true, 
+      "bounds": [
+        [
+          10, 
+          692
+        ], 
+        [
+          758, 
+          1011
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]andrei.brusentcov.eyecheck.free:id/txtBootAdvice[text]Keep your eyes healthy[enabled,,]"
+    }
+  }, 
+  "start_state": "20a5a528b94a778f9e3ae9d094d2b3f9"
+}
